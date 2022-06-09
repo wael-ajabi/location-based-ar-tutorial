@@ -11,8 +11,8 @@ function staticLoadPlaces() {
         {
             name: 'Pokèmon',
             location: {
-                lat: 34.89121470203807,
-               lng: 8.172170367844073,
+                lat: 36.89121470203807,
+               lng: 10.172170367844073,
             },
         },
     ];
@@ -33,7 +33,7 @@ var models = [
     },
     {
         url: './assets/dragonite/untiffftled.glb',
-        scale: '50 50 50',
+        scale: '1 1 1',
         rotation: '0 90 0',
         info: 'Dragonite, Lv. 99, HP 150/150',
     },
