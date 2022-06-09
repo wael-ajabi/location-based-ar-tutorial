@@ -33,8 +33,8 @@ var models = [
     },
     {
         url: './assets/dragonite/untiffftled.glb',
-        scale: '0.08 0.08 0.08',
-        rotation: '0 180 0',
+        scale: '1 1 1',
+        rotation: '0 90 0',
         info: 'Dragonite, Lv. 99, HP 150/150',
     },
 ];
