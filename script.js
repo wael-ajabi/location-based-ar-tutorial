@@ -32,9 +32,9 @@ var models = [
         info: 'Articuno, Lv. 80, HP 100/100',
     },
     {
-        url: './assets/dragonite/untiffftled.glb',
-        scale: '1 1 1',
-        rotation: '0 90 0',
+        url: './assets/dragonite/untiffftled.gltf',
+        scale: '0.08 0.08 0.08',
+        rotation: '0 180 0',
         info: 'Dragonite, Lv. 99, HP 150/150',
     },
 ];
